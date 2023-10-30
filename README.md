@@ -8,7 +8,7 @@ Seriously, stop using OptiFine.
 
 | Name                                                        | Author                                                       | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.2 | Description |
 |-------------------------------------------------------------|--------------------------------------------------------------|--------|--------|--------|--------|--------|-------------|
-| [Better Beds](https://modrinth.com/mod/better-beds)         | [Motschen](https://modrinth.com/user/Motschen)               | ❌      | ❌      | ❌      | ❌      | 🟡     |             |
+| [Better Beds](https://modrinth.com/mod/better-beds)         | [Motschen](https://modrinth.com/user/Motschen)               | ❌      | ❌      | ❌      | ❌      | ✅      |             |
 | [DashLoader](https://modrinth.com/mod/dashloader)           | [alphaqu](https://modrinth.com/user/alphaqu)                 | ❌      | ❌      | ❌      | ❌      | 🟡     |             |
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe)     | [FoundationGames](https://modrinth.com/user/FoundationGames) | ❌      | ❌      | ❌      | ❌      | 🟡     |             |
 | [Entity Culling](https://modrinth.com/mod/entityculling)    | [tr7zw](https://modrinth.com/user/tr7zw)                     | ❌      | ❌      | ❌      | ❌      | ✅      |             |
@@ -19,29 +19,28 @@ Seriously, stop using OptiFine.
 | [LazyDFU](https://modrinth.com/mod/lazydfu)                 | [astei](https://modrinth.com/user/astei)                     | ❌      | ❌      | ❌      | ❌      | ✅      |             |
 | [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)   | [fxmorin](https://modrinth.com/user/fxmorin)                 | ❌      | ❌      | ❌      | ❌      | 🟡     |             |
 | [ModernFix](https://modrinth.com/mod/modernfix)             | [embeddedt](https://modrinth.com/user/embeddedt)             | ❌      | ❌      | ❌      | ❌      | ✅      |             |
-| [More Culling](https://modrinth.com/mod/moreculling)        | [fxmorin](https://modrinth.com/user/fxmorin)                 | ❌      | ❌      | ❌      | ❌      | 🟡     |             |
+| [More Culling](https://modrinth.com/mod/moreculling)        | [fxmorin](https://modrinth.com/user/fxmorin)                 | ❌      | ❌      | ❌      | ❌      | ✅      |             |
 | [Sodium](https://modrinth.com/mod/sodium)                   | [jellysquid3](https://modrinth.com/user/jellysquid3)         | ❌      | ❌      | ❌      | ❌      | ✅      |             |
 | [Starlight](https://modrinth.com/mod/starlight)             | [spottedleaf](https://modrinth.com/user/spottedleaf)         | ❌      | ❌      | ❌      | ❌      | ✅      |             |
 
 ### OptiFine Features (Emulates OptiFine’s Features)
 
-| Name                                                                            | Author                                                      | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.2 | Description        |
-|---------------------------------------------------------------------------------|-------------------------------------------------------------|--------|--------|--------|--------|--------|--------------------|
-| [Animatica](https://modrinth.com/mod/animatica)                                 | [FundationGames](https://modrinth.com/user/FoundationGames) | ❌      | ❌      | ❌      | ❌      | 🟡     |                    |
-| [Capes](https://modrinth.com/mod/capes)                                         | [caelthecolher](https://modrinth.com/user/caelthecolher)    | ❌      | ❌      | ❌      | ❌      | ✅      |                    |
-| [CIT Resewn](https://modrinth.com/mod/cit-resewn)                               | [shsupercm](https://modrinth.com/user/shsupercm)            | ❌      | ❌      | ❌      | ❌      | 🟡     |                    |
-| [Continuity](https://modrinth.com/mod/continuity)                               | [peppercode1](https://modrinth.com/user/peppercode1)        | ❌      | ❌      | ❌      | ❌      | ✅      |                    |
-| [(CEM) Custom Entity Models](https://modrinth.com/mod/cem)                      | [dorianpb](https://modrinth.com/user/dorianpb)              | ❌      | ❌      | ❌      | ✅      | ❌      | Alternative to EMF | 
-| [(EMF) Entity Model Features](https://modrinth.com/mod/entity-model-features)   | [Traben](https://modrinth.com/user/Traben)                  | ❌      | ❌      | ❌      | ❌      | ✅      | Alternative to CEM |
-| [(ETF) Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | [Traben](https://modrinth.com/user/Traben)                  | ❌      | ❌      | ❌      | ❌      | ✅      |                    |
-| [Fabrishot](https://modrinth.com/mod/fabrishot)                                 | [ramidzkh](https://modrinth.com/user/ramidzkh)              | ❌      | ❌      | ❌      | ❌      | 🟡     |                    |
-| [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes)                       | [AMereBagatelle](https://modrinth.com/user/AMereBagatelle)  | ❌      | ❌      | ❌      | ❌      | ✅      |                    |
-| [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop)       | [FlashyReese](https://modrinth.com/user/FlashyReese)        | ❌      | ❌      | ❌      | ❌      | ✅      |                    |
-| [Iris Shaders](https://modrinth.com/mod/iris)                                   | [coderbot](https://modrinth.com/user/coderbot)              | ❌      | ❌      | ❌      | ❌      | ✅      |                    |
-| [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)                 | [LambdAurora](https://modrinth.com/user/LambdAurora)        | ❌      | ❌      | ❌      | ❌      | ✅      |                    |
-| [Logical Zoom](https://modrinth.com/mod/logical-zoom)                           | [LogicalGeekBoy](https://modrinth.com/user/LogicalGeekBoy)  | ❌      | ❌      | ❌      | ❌      | 🟡     |                    |
-| [OptiGUI](https://modrinth.com/mod/optigui)                                     | [opekope2](https://modrinth.com/user/opekope2)              | ❌      | ❌      | ❌      | ❌      | ✅      |                    |
-| [Sodium Extra](https://modrinth.com/mod/sodium-extra)                           | [FlashyReese](https://modrinth.com/user/FlashyReese)        | ❌      | ❌      | ❌      | ❌      | ✅      |                    |
+| Name                                                                            | Author                                                      | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.2 | Description |
+|---------------------------------------------------------------------------------|-------------------------------------------------------------|--------|--------|--------|--------|--------|-------------|
+| [Animatica](https://modrinth.com/mod/animatica)                                 | [FundationGames](https://modrinth.com/user/FoundationGames) | ❌      | ❌      | ❌      | ❌      | ✅      |             |
+| [Capes](https://modrinth.com/mod/capes)                                         | [caelthecolher](https://modrinth.com/user/caelthecolher)    | ❌      | ❌      | ❌      | ❌      | ✅      |             |
+| [CIT Resewn](https://modrinth.com/mod/cit-resewn)                               | [shsupercm](https://modrinth.com/user/shsupercm)            | ❌      | ❌      | ❌      | ❌      | ✅      |             |
+| [Continuity](https://modrinth.com/mod/continuity)                               | [peppercode1](https://modrinth.com/user/peppercode1)        | ❌      | ❌      | ❌      | ❌      | ✅      |             |
+| [(EMF) Entity Model Features](https://modrinth.com/mod/entity-model-features)   | [Traben](https://modrinth.com/user/Traben)                  | ❌      | ❌      | ❌      | ❌      | ✅      |             |
+| [(ETF) Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | [Traben](https://modrinth.com/user/Traben)                  | ❌      | ❌      | ❌      | ❌      | ✅      |             |
+| [Fabrishot](https://modrinth.com/mod/fabrishot)                                 | [ramidzkh](https://modrinth.com/user/ramidzkh)              | ❌      | ❌      | ❌      | ❌      | ✅      |             |
+| [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes)                       | [AMereBagatelle](https://modrinth.com/user/AMereBagatelle)  | ❌      | ❌      | ❌      | ❌      | ✅      |             |
+| [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop)       | [FlashyReese](https://modrinth.com/user/FlashyReese)        | ❌      | ❌      | ❌      | ❌      | ✅      |             |
+| [Iris Shaders](https://modrinth.com/mod/iris)                                   | [coderbot](https://modrinth.com/user/coderbot)              | ❌      | ❌      | ❌      | ❌      | ✅      |             |
+| [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)                 | [LambdAurora](https://modrinth.com/user/LambdAurora)        | ❌      | ❌      | ❌      | ❌      | ✅      |             |
+| [Logical Zoom](https://modrinth.com/mod/logical-zoom)                           | [LogicalGeekBoy](https://modrinth.com/user/LogicalGeekBoy)  | ❌      | ❌      | ❌      | ❌      | ✅      |             |
+| [OptiGUI](https://modrinth.com/mod/optigui)                                     | [opekope2](https://modrinth.com/user/opekope2)              | ❌      | ❌      | ❌      | ❌      | ✅      |             |
+| [Sodium Extra](https://modrinth.com/mod/sodium-extra)                           | [FlashyReese](https://modrinth.com/user/FlashyReese)        | ❌      | ❌      | ❌      | ❌      | ✅      |             |
 
 ### Utility Mods (Improves Existing Features)
 
@@ -56,7 +55,7 @@ Seriously, stop using OptiFine.
 | [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)           | [natanfudge](https://modrinth.com/user/natanfudge)     | ❌      | ❌      | ❌      | ❌      | ✅      |             |
 | [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)  | [FlashyReese](https://modrinth.com/user/FlashyReese)   | ❌      | ❌      | ❌      | ❌      | ✅      |             |
 | [Remove Reloading Screen](https://modrinth.com/mod/rrls)                  | [dima_dencep](https://modrinth.com/user/dima_dencep)   | ❌      | ❌      | ❌      | ❌      | 🟡     |             |
-| [ToolTipFix](https://modrinth.com/mod/tooltipfix)                         | [kyrptonaught](https://modrinth.com/user/kyrptonaught) | ❌      | ❌      | ❌      | ❌      | 🟡     |             |
+| [ToolTipFix](https://modrinth.com/mod/tooltipfix)                         | [kyrptonaught](https://modrinth.com/user/kyrptonaught) | ❌      | ❌      | ❌      | ❌      | ✅      |             |
 | [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) | [shedaniel](https://modrinth.com/user/shedaniel)       | ❌      | ❌      | ❌      | ❌      | ✅      |             |
 
 ### Extra Features (Adds New Features)
@@ -74,13 +73,13 @@ Seriously, stop using OptiFine.
 
 ### Libraries (Needed For Some Mods To Work)
 
-| Name                                                                      | Author                                             | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.2 | Description                            |
-|---------------------------------------------------------------------------|----------------------------------------------------|--------|--------|--------|--------|--------|----------------------------------------|
-| [Cloth Config API](https://modrinth.com/mod/cloth-config)                 | [shedaniel](https://modrinth.com/user/shedaniel)   | ❌      | ❌      | ❌      | ❌      | ✅      | Required for Falling Leaves            |
-| [Fabric API](https://modrinth.com/mod/fabric-api)                         | [modmuss50](https://modrinth.com/user/modmuss50)   | ❌      | ❌      | ❌      | ❌      | ✅      | Required for most mods                 |
-| [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) | [modmuss50](https://modrinth.com/user/modmuss50)   | ❌      | ❌      | ❌      | ❌      | ✅      | Required for Capes, OptiGUI & OptiGlue |
-| [Searchables](https://modrinth.com/mod/searchables)                       | [jaredlll08](https://modrinth.com/user/jaredlll08) | ❌      | ❌      | ❌      | ❌      | ✅      | Required for Controlling               |
-| [YetAnotherConfigLib](https://modrinth.com/mod/yacl)                      | [isxander](https://modrinth.com/user/isxander)     | ❌      | ❌      | ❌      | ❌      | ✅      | Required for Controlify                |
+| Name                                                                      | Author                                             | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.2 | Description                                |
+|---------------------------------------------------------------------------|----------------------------------------------------|--------|--------|--------|--------|--------|--------------------------------------------|
+| [Cloth Config API](https://modrinth.com/mod/cloth-config)                 | [shedaniel](https://modrinth.com/user/shedaniel)   | ❌      | ❌      | ❌      | ❌      | ✅      | Required for Falling Leaves & More Culling |
+| [Fabric API](https://modrinth.com/mod/fabric-api)                         | [modmuss50](https://modrinth.com/user/modmuss50)   | ❌      | ❌      | ❌      | ❌      | ✅      | Required for most mods                     |
+| [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) | [modmuss50](https://modrinth.com/user/modmuss50)   | ❌      | ❌      | ❌      | ❌      | ✅      | Required for Capes, OptiGUI & OptiGlue     |
+| [Searchables](https://modrinth.com/mod/searchables)                       | [jaredlll08](https://modrinth.com/user/jaredlll08) | ❌      | ❌      | ❌      | ❌      | ✅      | Required for Controlling                   |
+| [YetAnotherConfigLib](https://modrinth.com/mod/yacl)                      | [isxander](https://modrinth.com/user/isxander)     | ❌      | ❌      | ❌      | ❌      | ✅      | Required for Controlify                    |
 
 ### Optional
 
@@ -89,7 +88,6 @@ Seriously, stop using OptiFine.
 | [AppleSkin](https://modrinth.com/mod/appleskin)                               | [squeek502](https://modrinth.com/user/squeek502)       | ❌      | ❌      | ❌      | ❌      | ✅      |                                                   |
 | [CraftPresence](https://modrinth.com/mod/craftpresence)                       | [CDAGaming_](https://modrinth.com/user/CDAGaming)      | ❌      | ❌      | ❌      | ❌      | ✅      |                                                   |
 | [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)           | [A5b84](https://modrinth.com/user/A5b84)               | ❌      | ❌      | ❌      | ❌      | ✅      |                                                   |
-| [Memory Usage Screen](https://modrinth.com/mod/memory-usage-screen)           | [morimori0317](https://modrinth.com/user/morimori0317) | ❌      | ❌      | ❌      | ❌      | ✅      |                                                   |
 | [Plasmo Voice](https://modrinth.com/plugin/plasmo-voice)                      | [kpids](https://modrinth.com/user/kpids)               | ❌      | ❌      | ❌      | ❌      | ✅      |                                                   |
 | [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)             | [Sollace](https://modrinth.com/user/Sollace)           | ❌      | ❌      | ❌      | ❌      | ✅      |                                                   |
 | [Replay Mod](https://modrinth.com/mod/replaymod)                              | [Johni0702](https://modrinth.com/user/Johni0702)       | ❌      | ❌      | ❌      | ❌      | 🟡     |                                                   |
