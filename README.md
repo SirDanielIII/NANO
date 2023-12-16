@@ -1,4 +1,4 @@
-# Na, No OptiFine (NANO)
+# Na, No OptiFine (NANO) [Still WIP]
 
 The definitive Fabric performance modpack that aims to eliminate the need for OptiFine, **FOREVER**.
 
