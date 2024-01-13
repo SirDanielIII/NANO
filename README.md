@@ -2,8 +2,6 @@
 
 The definitive Fabric performance modpack that aims to eliminate the need for OptiFine, **FOREVER**.
 
-Note: 1.16.5 to 1.18.2 packs will release eventually... life is too busy :(
-
 <details>
 
 ## What is [OptiFine](https://www.optifine.net/home) & [Sodium](https://modrinth.com/mod/sodium)?
@@ -90,7 +88,7 @@ Note: Many of the descriptions are copied from the mods' original posts.
 
 `✅ → Included` `🟡 → Not Included (awaiting update)` `❌ → Not Included`
 
-### Performance
+### Performance <sup>[14]</sup>
 
 These mods aim towards making your FPS go brrrr.
 
@@ -104,14 +102,14 @@ These mods aim towards making your FPS go brrrr.
 | [Krypton](https://modrinth.com/mod/krypton)                 | [astei](https://modrinth.com/user/astei)                     | ✅      | ✅      | ✅      | ✅      | ✅             | ✅      | Attempts to optimize the Minecraft networking stack.                                                                           |
 | [LazyDFU](https://modrinth.com/mod/lazydfu)                 | [astei](https://modrinth.com/user/astei)                     | ✅      | ✅      | ✅      | ✅      | ✅             | ✅      | Defers unnecessary initialization work so that it is only performed if required.                                               |
 | [Lithium](https://modrinth.com/mod/lithium)                 | [jellysquid3](https://modrinth.com/user/jellysquid3)         | ✅      | ✅      | ✅      | ✅      | ✅             | ✅      | An optimization mod that improves a number of systems without changing vanilla mechanics.                                      |
-| [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)   | [fxmorin](https://modrinth.com/user/fxmorin)                 | ✅      | ✅      | ✅      | ✅      | ✅             | ✅      | A modern, general-purpose optimization mod for Minecraft.                                                                      |
+| [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)   | [fxmorin](https://modrinth.com/user/fxmorin)                 | ✅      | ✅      | ❌      | ✅      | ✅             | ✅      | A modern, general-purpose optimization mod for Minecraft.                                                                      |
 | [ModernFix](https://modrinth.com/mod/modernfix)             | [embeddedt](https://modrinth.com/user/embeddedt)             | ✅      | ❌      | ✅      | ✅      | ✅             | ✅      | Improves performance, reduces memory usage, and fixes many bugs in modern Minecraft versions.                                  |
 | [More Culling](https://modrinth.com/mod/moreculling)        | [fxmorin](https://modrinth.com/user/fxmorin)                 | ❌      | ❌      | ✅      | ✅      | ✅             | ✅      | Changes how multiple types of culling are handled in order to improve performance.                                             |
 | [Noxesium](https://modrinth.com/mod/noxesium)               | [Aeltumn](https://modrinth.com/user/Aeltumn)                 | ❌      | ❌      | ❌      | ✅      | ✅             | ✅      | Speeds up custom model rendering, recolorable models beacon beam rendering, and massively speeds up rendering of on-screen UIs |
 | [Sodium](https://modrinth.com/mod/sodium)                   | [jellysquid3](https://modrinth.com/user/jellysquid3)         | ✅      | ✅      | ✅      | ✅      | ✅             | ✅      | Implements a modern rendering engine for Minecraft, which greatly improves performance.                                        |
 | [Starlight](https://modrinth.com/mod/starlight)             | [spottedleaf](https://modrinth.com/user/spottedleaf)         | ❌      | ✅      | ✅      | ✅      | ✅             | ✅      | Rewrites the light engine to fix lighting performance and lighting errors.                                                     |
 
-### OptiFine Features
+### OptiFine Features <sup>[14]</sup>
 
 These mods should emulate all if not most of OptiFine's features.
 
@@ -132,7 +130,7 @@ These mods should emulate all if not most of OptiFine's features.
 | [OptiGUI](https://modrinth.com/mod/optigui)                                     | [opekope2](https://modrinth.com/user/opekope2)              | ❌      | ❌      | ✅      | ✅      | ✅             | ✅      | Allows the texture customization of in-game GUIs with resource packs.                                                                                                                      |
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra)                           | [FlashyReese](https://modrinth.com/user/FlashyReese)        | ✅      | ✅      | ✅      | ✅      | ✅             | ✅      | Aims to bring most of OptiFine's eye-candy options to Sodium, alongside visual bugfixes & other performance options.                                                                       |
 
-### Utility
+### Utility <sup>[12]</sup>
 
 These are included to improve the existing features in Minecraft.
 
@@ -146,27 +144,27 @@ These are included to improve the existing features in Minecraft.
 | [MixinTrace](https://modrinth.com/mod/mixintrace)                         | [comp500](https://modrinth.com/user/comp500)             | ❌      | ✅      | ✅      | ✅      | ✅      | ✅      | ✅      | Adds a list of mixins (and Mixin configuration names) to classes in the stack trace to crash reports.                                                |
 | [Mod Menu](https://modrinth.com/mod/modmenu)                              | [Prospector](https://modrinth.com/user/Prospector)       | ✅      | ✅      | ✅      | ✅      | ✅      | ✅      | ✅      | Adds a mod menu to view the list of mods you have installed.                                                                                         |
 | [No Telemetry](https://modrinth.com/mod/no-telemetry)                     | [kb1000](https://modrinth.com/user/kb1000)               | ❌      | ❌      | ✅      | ✅      | ✅      | ✅      | ✅      | Disables the telemetry introduced in Minecraft 21w38a.                                                                                               |
-| [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)           | [natanfudge](https://modrinth.com/user/natanfudge)       | ✅      | ✅      | ✅      | ✅      | ❌      | ✅      | 🟡     | Allows you to go back to the title screen and keep playing if Minecraft crashes.   <br/><br/>✏️ Iris will crash in NANO-1.20.1-r1.0 for some reason. |
+| [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)           | [natanfudge](https://modrinth.com/user/natanfudge)       | ✅      | ✅      | ❌      | ✅      | ❌      | ✅      | 🟡     | Allows you to go back to the title screen and keep playing if Minecraft crashes.   <br/><br/>✏️ Iris will crash in NANO-1.20.1-r1.0 for some reason. |
 | [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)  | [FlashyReese](https://modrinth.com/user/FlashyReese)     | ✅      | ✅      | ✅      | ✅      | ✅      | ✅      | ✅      | Replaces Sodium's Options Screen with intention of improving UX.                                                                                     |
 | [ToolTipFix](https://modrinth.com/mod/tooltipfix)                         | [kyrptonaught](https://modrinth.com/user/kyrptonaught)   | ❌      | ✅      | ✅      | ✅      | ✅      | ✅      | ✅      | Fixes Tooltips from runnning off the screen.                                                                                                         |
 | [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) | [shedaniel](https://modrinth.com/user/shedaniel)         | ✅      | ✅      | ✅      | ✅      | ✅      | ✅      | ✅      | Keeps your settings when switching between different Minecraft versions.                                                                             |
 
-### Extra Features
+### Extra Features <sup>[8]</sup>
 
 Doesn't add new content and/or change the core game mechanics. They just complement the current experience.
 
-| Name                                                                        | Author                                                         | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.1-20.2 | 1.20.4 | Description                                                                                                         |
-|-----------------------------------------------------------------------------|----------------------------------------------------------------|--------|--------|--------|--------|-------------|--------|---------------------------------------------------------------------------------------------------------------------|
-| [Controlling](https://modrinth.com/mod/controlling)                         | [jaredlll08](https://modrinth.com/user/jaredlll08)             | ✅      | ✅      | ✅      | ✅      | ✅           | ✅      | Adds a search bar to the Key-Bindings menu.                                                                         |
-| [Falling Leaves](https://modrinth.com/mod/fallingleaves)                    | [randommcsomethin](https://modrinth.com/user/randommcsomethin) | ✅      | ✅      | ✅      | ✅      | ✅           | ✅      | Adds a neat little particle effect to leaf blocks.                                                                  |
-| [MidnightControls](https://modrinth.com/mod/midnightcontrols)               | [Motschen](https://modrinth.com/user/Motschen)                 | ❌      | ❌      | ✅      | ✅      | ✅           | ✅      | Adds controller support.                                                                                            |
-| [More Chat History](https://modrinth.com/mod/morechathistory)               | [JackFred2](https://modrinth.com/user/JackFred2)               | ✅      | ✅      | ✅      | ✅      | ✅           | ✅      | Increases the maximum length of chat history.                                                                       |
-| [No Chat Reports](https://modrinth.com/mod/no-chat-reports)                 | [Aizistral](https://modrinth.com/user/Aizistral)               | ❌      | ❌      | ❌      | ✅      | ✅           | ✅      | Strips cryptographic signatures that since 1.19 are attached to every message sent in the chat (when possible).     |
-| [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) | [comp500](https://modrinth.com/user/comp500)                   | ✅      | ✅      | ✅      | ✅      | ✅           | ✅      | Screenshots are copied to the clipboard.                                                                            |
-| [ViaFabricPlus](https://modrinth.com/mod/viafabricplus)                     | [FlorianMichael](https://modrinth.com/user/FlorianMichael)     | ❌      | ❌      | ❌      | ❌      | ✅           | ✅      | Allows you to switch between different Minecraft versions on the fly. <br/><br/>⚠️ Warning: Can be buggy sometimes. |
-| [Technopig](https://modrinth.com/mod/technomodel)                           | [thecolonel63](https://modrinth.com/user/thecolonel63)         | ❌      | ✅      | ✅      | ✅      | ✅           | ✅      | Any pig with the name "Technoblade" will have a crown added to its head.                                            |
+| Name                                                                        | Author                                                         | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.1-1.20.2 | 1.20.4 | Description                                                                                                         |
+|-----------------------------------------------------------------------------|----------------------------------------------------------------|--------|--------|--------|--------|---------------|--------|---------------------------------------------------------------------------------------------------------------------|
+| [Controlling](https://modrinth.com/mod/controlling)                         | [jaredlll08](https://modrinth.com/user/jaredlll08)             | ✅      | ✅      | ✅      | ✅      | ✅             | ✅      | Adds a search bar to the Key-Bindings menu.                                                                         |
+| [Falling Leaves](https://modrinth.com/mod/fallingleaves)                    | [randommcsomethin](https://modrinth.com/user/randommcsomethin) | ✅      | ✅      | ✅      | ✅      | ✅             | ✅      | Adds a neat little particle effect to leaf blocks.                                                                  |
+| [MidnightControls](https://modrinth.com/mod/midnightcontrols)               | [Motschen](https://modrinth.com/user/Motschen)                 | ❌      | ❌      | ✅      | ✅      | ✅             | ✅      | Adds controller support.                                                                                            |
+| [More Chat History](https://modrinth.com/mod/morechathistory)               | [JackFred2](https://modrinth.com/user/JackFred2)               | ✅      | ✅      | ✅      | ✅      | ✅             | ✅      | Increases the maximum length of chat history.                                                                       |
+| [No Chat Reports](https://modrinth.com/mod/no-chat-reports)                 | [Aizistral](https://modrinth.com/user/Aizistral)               | ❌      | ❌      | ❌      | ✅      | ✅             | ✅      | Strips cryptographic signatures that since 1.19 are attached to every message sent in the chat (when possible).     |
+| [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) | [comp500](https://modrinth.com/user/comp500)                   | ✅      | ✅      | ✅      | ✅      | ✅             | ✅      | Screenshots are copied to the clipboard.                                                                            |
+| [ViaFabricPlus](https://modrinth.com/mod/viafabricplus)                     | [FlorianMichael](https://modrinth.com/user/FlorianMichael)     | ❌      | ❌      | ❌      | ✅      | ✅             | ✅      | Allows you to switch between different Minecraft versions on the fly. <br/><br/>⚠️ Warning: Can be buggy sometimes. |
+| [Technopig](https://modrinth.com/mod/technomodel)                           | [thecolonel63](https://modrinth.com/user/thecolonel63)         | ❌      | ✅      | ✅      | ✅      | ✅             | ✅      | Any pig with the name "Technoblade" will have a crown added to its head.                                            |
 
-### Libraries
+### Libraries <sup>[4]</sup>
 
 These are needed for some mods to work properly.
 
@@ -177,7 +175,7 @@ These are needed for some mods to work properly.
 | [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) | [modmuss50](https://modrinth.com/user/modmuss50)   | ❌      | ❌      | ✅      | ✅      | ✅             | ✅      | Required for Capes, OptiGUI & OptiGlue     |
 | [Searchables](https://modrinth.com/mod/searchables)                       | [jaredlll08](https://modrinth.com/user/jaredlll08) | ✅      | ✅      | ✅      | ✅      | ✅             | ✅      | Required for Controlling                   |
 
-### Optional
+### Optional <sup>[11]</sup>
 
 Fun mods that can be useful, and don't really belong in the core NANO package.
 
