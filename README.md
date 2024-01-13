@@ -2,6 +2,8 @@
 
 The definitive Fabric performance modpack that aims to eliminate the need for OptiFine, **FOREVER**.
 
+Note: 1.16.5 to 1.17.2 packs will release eventually... life is too busy :(
+
 <details>
 
 ## What is [OptiFine](https://www.optifine.net/home) & [Sodium](https://modrinth.com/mod/sodium)?
