@@ -7,6 +7,7 @@ The definitive Fabric performance modpack that aims to eliminate the need for Op
 ### Changelog from Revision 2.1:
 
 <details>
+<br>
 
 **New Mods Added:**
 
@@ -38,6 +39,8 @@ The definitive Fabric performance modpack that aims to eliminate the need for Op
 - **[Server Pinger Fixer](https://modrinth.com/mod/serverpingerfixer)**
     - Improves how servers in the multiplayer list are pinged.
     - Replaced [fast-ip-ping](https://modrinth.com/mod/fast-ip-ping) from [Revision 2.1](./Revisions/Revision%202.1.md) for 1.18.2+.
+
+<br>
 
 **Introduced for Older Minecraft Versions (1.16.5 and/or 1.17.1:**
 
