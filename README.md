@@ -17,9 +17,6 @@ The definitive Fabric performance modpack that aims to eliminate the need for Op
 - **[Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric)**
     - Designed to improve the chunk performance of Minecraft.
 
-- **[Custom Entity Models](https://modrinth.com/mod/entity-model-features)**
-    - Adds support for OptiFine's Custom Entity Models (CEM).
-
 - **[Disable Custom Worlds Advice](https://modrinth.com/mod/dcwa)**
     - Disables the "Experimental Features" warning for custom dimensions or settings.
 
@@ -46,6 +43,9 @@ The definitive Fabric performance modpack that aims to eliminate the need for Op
 
 - **[Audio Output](https://www.curseforge.com/minecraft/mc-mods/audio-output)**
     - Easily change Minecraft's audio output device without restarting the game.
+
+- **[Custom Entity Models](https://modrinth.com/mod/entity-model-features)**
+    - Adds support for OptiFine's Custom Entity Models (CEM).
 
 - **[Hydrogen](https://modrinth.com/mod/hydrogen)**
     - Reduces Minecraft's memory usage.
