@@ -115,8 +115,7 @@ for me to force it down my friends' throats 😅). Hope you guys enjoy it.
 8. Select the Fabric profile you want to run (E.G. fabric-loader-1.19.4) and press play!
     * [Optional] You can give your Minecraft profile more RAM. To do this, find the profile you want to edit in the "Installations" tab. Then click on the three dots to the right,
       then edit. Finally, change the number in `Xmx2G` to something like `Xmx6G` if you'd like to give Minecraft 6GB of RAM.
-9. If Minecraft launches, and you get this message, just continue and ignore it:
-   ![img.png](images/iris_complains_about_notenoughcrashes.png)
+9. Launch the game & enjoy the frames. 🙂
 
 ### How To Find `mods` Folder:
 
