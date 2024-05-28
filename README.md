@@ -42,7 +42,7 @@ The definitive Fabric performance modpack that aims to eliminate the need for Op
 
 <br>
 
-**Introduced for Older Minecraft Versions (1.16.5 and/or 1.17.1:**
+**Introduced for Older Minecraft Versions (1.16.5 and/or 1.17.1):**
 
 - **[Audio Output](https://www.curseforge.com/minecraft/mc-mods/audio-output)**
     - Easily change Minecraft's audio output device without restarting the game.
