@@ -17,7 +17,8 @@ The definitive Fabric performance modpack that aims to eliminate the need for Op
 
 * Added [TCDCommons API](https://modrinth.com/mod/Eldc1g37) as it is required for newer versions of [Better Statistics Screen](https://modrinth.com/mod/better-stats)
 * Added [Colormatic](https://modrinth.com/mod/colormatic) & [Polytone](https://modrinth.com/mod/polytone) to support OptiFine's custom colours (color.properties).
-* Added [RyoamicLights](https://modrinth.com/mod/ryoamiclights) to 1.20.6 and 1.21 since [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) has not updated.
+* Added [RyoamicLights](https://modrinth.com/mod/ryoamiclights) (+[ObsidianUI](https://modrinth.com/mod/obsidianui)) to 1.20.6 and 1.21
+  since [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) has not updated.
 * Moved [Remove Reloading Screen](https://modrinth.com/mod/rrls) to [[Utility]](#utility)
 * Moved [LambdaControls](https://modrinth.com/mod/lambdacontrols) & [MidnightControls](https://modrinth.com/mod/midnightcontrols) to [[Extra Features]](#extra-features)
 
