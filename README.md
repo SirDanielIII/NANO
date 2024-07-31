@@ -2,7 +2,7 @@
 
 The definitive Fabric performance modpack that aims to eliminate the need for OptiFine, **FOREVER**.
 
-#### `Modpack Revision: 3.1 (Pre-release 4)`
+#### `Modpack Revision: 3.1 (Pre-release 5)`
 
 ### Changelog from Revision 3.0:
 
