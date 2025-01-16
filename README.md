@@ -11,9 +11,9 @@ The definitive Fabric performance modpack that aims to eliminate the need for Op
 <details>
 <br>
 
-#### **Dropped Modpack Support**
+#### **Ended Future Modpack Support**
 
-- **Minecraft Versions:** 1.20.1, 1.20.2, 1.20.3, 1.20.4, 1.20.5, 1.21
+- **Minecraft Versions:** 1.20.1, 1.20.2, 1.20.3, 1.20.4, 1.20.5, 1.21, 1.21.1, 1.21.2, 1.21.3
 
 #### **New Additions**
 
@@ -194,7 +194,7 @@ These are included to improve the existing features in Minecraft.
 | [No Telemetry](https://modrinth.com/mod/no-telemetry)                      | [kb1000](https://modrinth.com/user/kb1000)                    | ❌      | ❌      | ✅      | ✅      | ✅      | ✅    | Disables telemetry introduced in Minecraft 21w38a.                                               |
 | [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)            | [natanfudge](https://modrinth.com/user/natanfudge)            | ❌      | ❌      | ❌      | ✅      | ✅      | ✅    | Allows resuming gameplay after Minecraft crashes.  <br/><br/>⚠️ Crashes in 1.18.2 and before.    |
 | [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)   | [FlashyReese](https://modrinth.com/user/FlashyReese)          | ✅      | ✅      | ✅      | ✅      | ✅      | ✅    | Enhances Sodium's Options Screen for better user experience.                                     |
-| [Remove Reloading Screen](https://modrinth.com/mod/rrls)                   | [dima_dencep](https://modrinth.com/user/dima_dencep)          | ✅      | ❌      | ❌      | ❌      | ❌      | ✅    | Loads resource packs in the background & removes its loading screen.                             |
+| [Remove Reloading Screen](https://modrinth.com/mod/rrls)                   | [dima_dencep](https://modrinth.com/user/dima_dencep)          | ❌      | ❌      | ❌      | ❌      | ❌      | ✅    | Loads resource packs in the background & removes its loading screen.                             |
 | [fast-ip-ping](https://modrinth.com/mod/fast-ip-ping)                      | [fallen-breath](https://modrinth.com/user/fallen-breath)      | ✅      | ✅      | ❌      | ❌      | ❌      | ❌    | Fixes "Can't connect to server" on refresh.                                                      |
 | [Server Pinger Fixer](https://modrinth.com/mod/serverpingerfixer)          | [JustAlittleWolf](https://modrinth.com/user/JustAlittleWolf)  | ❌      | ❌      | ✅      | ✅      | ✅      | ✅    | Improves how servers in the multiplayer list are pinged.                                         |
 | [ToolTipFix](https://modrinth.com/mod/tooltipfix)                          | [kyrptonaught](https://modrinth.com/user/kyrptonaught)        | ❌      | ✅      | ✅      | ✅      | ✅      | 🟡   | Corrects tooltips to prevent them from running off the screen.                                   |
@@ -213,7 +213,7 @@ Doesn't add new content and/or change the core game mechanics. They just complem
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports)                 | [Aizistral](https://modrinth.com/user/Aizistral)               | ❌      | ❌      | ❌      | ✅      | ✅      | ✅    | Removes cryptographic signatures from chat messages in Minecraft 1.19.1+ (when possible).  |
 | [Screenshot Organisation](https://modrinth.com/mod/screenshot-organisation) | [Loedje](https://modrinth.com/user/Loedje)                     | ❌      | ❌      | ❌      | ❌      | ✅      | ✅    | Organizes your screenshots according to world save or server.                              |
 | [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) | [comp500](https://modrinth.com/user/comp500)                   | ✅      | ✅      | ✅      | ✅      | ✅      | ✅    | Copies screenshots to the clipboard.                                                       |
-| [ViaFabricPlus](https://modrinth.com/mod/viafabricplus)                     | [FlorianMichael](https://modrinth.com/user/FlorianMichael)     | ❌      | ❌      | ❌      | ✅      | ✅      | ✅    | Allows seamless switching between Minecraft versions in Multiplayer.                       |
+| [ViaFabricPlus](https://modrinth.com/mod/viafabricplus)                     | [FlorianMichael](https://modrinth.com/user/FlorianMichael)     | ❌      | ❌      | ❌      | ❌      | ✅      | ✅    | Allows seamless switching between Minecraft versions in Multiplayer.                       |
 | [Technopig](https://modrinth.com/mod/technomodel)                           | [thecolonel63](https://modrinth.com/user/thecolonel63)         | ❌      | ❌      | ✅      | ✅      | ✅      | ✅    | Adds a crown to any pig named "Technoblade". <br/><br/>⚠️ Doesn't boot properly on 1.17.1. |
 
 ### Libraries
